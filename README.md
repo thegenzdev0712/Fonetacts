@@ -25,7 +25,7 @@ See the [LICENSE](LICENSE) file for full details.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fonetacts.git
+   git clone https://github.com/thegenzdev0712/Fonetacts.git
    ```
 2. 	Navigate into the project directory:
     ```bash
